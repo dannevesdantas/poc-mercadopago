@@ -1,0 +1,21 @@
+{
+  "name": "get-order-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "mercadopago": "2.0.6",
+    "node-fetch": "^2.7.0",
+    "tr46": "^0.0.3",
+    "uuid": "^9.0.1",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
